@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-zozka1/zozka1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+zozka1/zozka1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profil
 You can click the Preview link to take a look at your changes.
 --->
